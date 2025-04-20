@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
-<h3 align="center">I have worked on web, desktop, and mobile projects, but currently, I'm focusing on improving myself in mobile app development. You can find the mobile applications that I developed with Flutter in my repositories.</h3>
+<h3 align="center">I have worked on web, desktop, and mobile projects, but currently, I'm focusing on improving myself in mobile app development. You can find the mobile applications that I developed with **Flutter** and **Kotlin** in my repositories.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalisivridev&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalisivridev" /> </p>
 
